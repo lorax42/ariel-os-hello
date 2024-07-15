@@ -1,0 +1,8 @@
+imports:
+  - git:
+      url: https://github.com/future-proof-iot/RIOT-rs
+      commit: 8fe2c8ab1c1362a9cc60989e850c95cf9d9d8ff0
+    dldir: riot-rs
+
+apps:
+  - name: riot-rs-hello
