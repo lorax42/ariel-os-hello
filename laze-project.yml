@@ -1,7 +1,7 @@
 imports:
   - git:
       url: https://github.com/future-proof-iot/RIOT-rs
-      commit: 1fb373d800eb360b5f01d0aadf4896d450b90637
+      commit: e5120570794310c8a3fa837c4c45e73a47bcb443
     dldir: riot-rs
 
 apps:
