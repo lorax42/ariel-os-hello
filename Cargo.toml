@@ -28,3 +28,4 @@ usbd-hid-macros = { git = "https://github.com/twitchyliquid64/usbd-hid", rev = "
 
 # version 0.12-to-be
 smoltcp = { git = "https://github.com/smoltcp-rs/smoltcp.git", rev = "125773e282bc2e0c914a49e9c75573926e26e558" }
+
