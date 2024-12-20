@@ -1,8 +1,8 @@
 imports:
   - git:
-      url: https://github.com/future-proof-iot/RIOT-rs
-      commit: e5120570794310c8a3fa837c4c45e73a47bcb443
-    dldir: riot-rs
+      url: https://github.com/ariel-os/ariel-os
+      commit: bef89914cd1ebf579e629a3a24a20b7e0723c981
+    dldir: ariel-os
 
 apps:
-  - name: riot-rs-hello
+  - name: ariel-os-hello
