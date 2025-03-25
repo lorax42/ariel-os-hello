@@ -1,8 +1,9 @@
 imports:
-  - git:
-      url: https://github.com/ariel-os/ariel-os
-      commit: 3e97d77ecf775824d98c0361bbba2e08aac24298
-    dldir: ariel-os
+  # - git:
+  #     url: https://github.com/ariel-os/ariel-os
+  #     commit: 3e97d77ecf775824d98c0361bbba2e08aac24298
+  #   dldir: ariel-os
+  - path: ../ariel-os/
 
 apps:
   - name: ariel-os-hello
